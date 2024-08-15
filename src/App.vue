@@ -19,6 +19,8 @@ function handleSelectFile(e) {
     console.timeEnd('cutFile');
   });
 }
+//后续在这里添加接口队列
+// const queue = new Queue();
 </script>
 
 <template>
